@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import { createAuthUserWithEmailAndPassword } from "../../utils/firebase/firebase.utils";
+import React from "react";
 import {
   signInWithGooglePopup,
   createUserDocumentFromAuth,
